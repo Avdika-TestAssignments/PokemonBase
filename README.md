@@ -18,6 +18,10 @@ You can also search for the pokémon's id or full name to see a detailed descrip
 
 - Add a search option at least by type and ability
 
+### screenshot of detailed pokemon card
+
+![](screenshot.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
